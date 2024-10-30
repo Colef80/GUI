@@ -1,6 +1,5 @@
 import tkinter as tk
 import tkinter.messagebox
-import re
 
 class PizzaOrderGUI:
     def __init__(self):
